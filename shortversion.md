@@ -37,7 +37,7 @@ MiMo-V2.5-Pro and GLM-5.2 overlap substantially given MiMo's small sample (n=11)
 
 **Repository-level failures.** Already distinguished in the manuscript: MiMo-V2.5-Pro's 68 failed invocations attributed to provider-level errors across four full repositories (17 agents each); Kimi-K2.6's 17 failures to a pipeline-level failure in `irs`. Both counts reconcile exactly. Added a sentence to Section IV-A making this explicit.
 
-**Data contamination.** Added a Limitations paragraph on pretraining-data overlap risk. Future work: a contamination-free corpus from unreleased, proprietary chaincode with deliberately injected known vulnerabilities, enabling a proper recall measurement.
+**Data contamination.** Added a Limitations paragraph on pretraining-data overlap risk. Future work: a contamination-free corpus from unreleased, proprietary chaincode with deliberately injected known vulnerabilities, enabling a more accurate recall measurement.
 
 ## Reviewer 3
 

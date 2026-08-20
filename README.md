@@ -9,7 +9,7 @@ We thank the reviewers for their careful and constructive feedback. We are grate
 
 **Comment 2 (pre-filter agent).** The automated pre-filter is DeepSeek V4 Pro 0423, prompted to classify each finding for verdict correctness, taxonomy category, and evidentiary support. We agree this should not be left implicit and have added the specification to Section III-E, noting the GLM-5.2 divergence (~45% automated versus ~51% manual estimate) as a useful calibration check, now discussed in Section IV-A.
 
-**Comment 3 (reasoning correctness oversold).** We revised the contribution statement to describe two quantitative metrics, Response Rate and Precision, plus one qualitative observation on reasoning faithfulness, rather than three independently measured dimensions.
+**Comment 3 (reasoning correctness oversold).** We agree that the three metrics do not display the same weight in our work. Hence, we revised the contribution statement to focus on two quantitative metrics, Response Rate and Precision, while also mentioning one qualitative observation on reasoning faithfulness, rather than stating that we cover three independently measured dimensions.
 
 **Comment 4 (statistical uncertainty).** We computed 95% Wilson intervals for all five models (n = TP+FP):
 

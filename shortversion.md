@@ -43,6 +43,7 @@ MiMo-V2.5-Pro and GLM-5.2 overlap substantially given MiMo's small sample (n=11)
 
 We thank the reviewer for the positive assessment. The concerns raised, single-run execution and a small corpus, overlap with points above and are addressed by the same revisions. We list multi-run execution and corpus expansion as concrete near-term follow-on work. Finally, we believe it would be hard to adjust the manuscript to a short paper, as a reduction to five pages would require removing tables, figures, and other contributions the reviewers themselves considered valuable and relevant.
 
+## Closing Remarks
 We thank all three reviewers again and believe these revisions address every substantive concern raised.
 
 ## References
